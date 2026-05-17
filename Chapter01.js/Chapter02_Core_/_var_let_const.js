@@ -44,3 +44,5 @@ hello();
 
 const pi=3.14;
 console.log(pi);
+pi=3.1456 //Error :Assignment to constant variable
+
